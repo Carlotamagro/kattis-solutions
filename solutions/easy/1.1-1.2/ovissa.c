@@ -2,7 +2,7 @@
 
 int main(){
     char word[100000];
-    int count;
+    int count = 0;
     
     scanf("%s", word);
     
@@ -12,3 +12,4 @@ int main(){
     printf("%d", count);
     
 }
+
